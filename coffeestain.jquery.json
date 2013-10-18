@@ -1,0 +1,36 @@
+{
+	"name": "coffeestain",
+	"title": "jQuery coffeestain",
+	"description": "Add a coffeestain to a web page.",
+	"keywords": [
+		"jquery",
+		"coffeestain",
+		"plugins"
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Robert Price",
+		"email": "robert.price@gmail.com",
+		"url": "https://github.com/robertprice"
+	},
+	"maintainers": [
+		{
+			"name": "Robert Price",
+			"email": "robert.price@gmail.com",
+			"url": "https://github.com/robertprice"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/jquery-coffeestain/coffeestain/issues",
+	"homepage": "http://www.robertprice.co.uk",
+	"docs": "https://github.com/jquery-coffeestain/coffeestain#readme",
+	"download": "https://github.com/jquery-coffeestain/coffeestain/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
