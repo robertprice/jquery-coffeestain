@@ -51,6 +51,7 @@
 							"z-index": that.settings.zIndex,
 							"top": that.settings.top,
 							"left": that.settings.left,
+							"max-width": "100%",
 							"zoom": "1",
 							"filter": "alpha(opacity=" + (that.settings.opacity * 100) + ")",
 							"opacity": that.settings.opacity,
